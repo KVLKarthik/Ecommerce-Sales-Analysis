@@ -1,3 +1,5 @@
+![image](https://github.com/KVLKarthik/Ecommerce-Sales-Analysis/assets/60447117/67f22a18-7d59-4b20-924c-901c1429fe9b)
+
 # Ecommerce-Sales-Analysis
 Developed an Excel dashboard for comprehensive analysis of e-commerce sales data.
 - Leveraged a dataset comprising 10,000 rows and 22 columns.
